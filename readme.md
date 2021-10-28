@@ -1,6 +1,18 @@
 # Readme #
 This is the readme for this project. It will include any useful links and commands to run.
 
+## Install Visual Studio Code ##
+'''https://code.visualstudio.com/download'''
+
+## Install GitHub
+
+Get a github account at github.com
+Install git locally
+
+## Install NodeJS ##
+'''https://nodejs.org/en/download/'''
+
+
 ## Cloning a Repository ##
 
 Create a folder for your college projects. Go into that folder.
