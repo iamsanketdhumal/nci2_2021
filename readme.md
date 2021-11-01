@@ -31,3 +31,7 @@ run the following command:
 ## for the moment ##
 
 you need git,nodejs, vscode installed 
+
+## how to find out the git version ##
+
+''''$git'''
