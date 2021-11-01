@@ -43,3 +43,11 @@ you need git,nodejs, vscode installed
 ## And run the below command in the terminal ##
 
 '''node contract.js''''
+
+## Dependencies and NPM ##
+
+We want to use large chunks of code that others have written to interact with Ethereum, like the web3 package. Do this, we need to set up the Node Package Manager (npm).
+
+From inside your folder, to create your own package.json:
+
+'''npm init'''
