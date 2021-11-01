@@ -51,3 +51,4 @@ We want to use large chunks of code that others have written to interact with Et
 From inside your folder, to create your own package.json:
 
 '''npm init'''
+Add the package name & description by your choice and click on next.
