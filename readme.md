@@ -35,3 +35,11 @@ you need git,nodejs, vscode installed
 ## how to find out the git version ##
 
 ''''$git'''
+
+## Add contract.js file and type the below command ##
+
+'''console.log("Hello World");''''''
+
+## And run the below command in the terminal ##
+
+'''node contract.js''''
