@@ -27,3 +27,7 @@ From the terminal in Studio Code (or from the command line - as long as your are
 run the following command:
 
 '''git pull origin main''
+
+## for the moment ##
+
+you need git,nodejs, vscode installed 
